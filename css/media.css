@@ -1,0 +1,18 @@
+@media screen and (max-width: 768px){
+    .profile_content{top: -80px;}
+    .profile_content .info{
+        margin-top: 1%;
+    }
+    .profile_content .info h2{
+        font-size: 25px;
+    }
+    .profile_content .info h3{
+        font-size: 21px;
+    }
+    
+    .intersts .list-inline li{margin-top: 15px;}
+    .brands {
+    margin-top: 10px;
+}
+    #owl-demo .item img{width: 50%;}
+}
