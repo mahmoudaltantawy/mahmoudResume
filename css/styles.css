@@ -75,6 +75,7 @@ left: 49px;
     position: absolute;
    top: 37%;
     left: 52px;
+    display:none;
 }
 .profile_content .info .my_table{
     margin-top: 30px;
